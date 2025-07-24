@@ -19,8 +19,8 @@ const projects = [
       "A frontend project for photographers to display their work, manage bookings, and highlight services using a clean, responsive UI.",
     img: "/projects/project3.png",
     tags: ["React", "Tailwind CSS"],
-    demoUrl: "https://manish-photos.vercel.app/",
-    githubUrl: "https://github.com/sthaRajan450/ManishPhotos",
+    demoUrl: "https://manishphotos.vercel.app/",
+    githubUrl: "https://github.com/sthaRajan450/Photo-Portfolio",
   },
   {
     id: 2,
